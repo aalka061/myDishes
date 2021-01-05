@@ -126,7 +126,7 @@ const DUMMY_MEALS = const [
       'c3',
     ],
     name: 'Classic Hamburger',
-    affordability: Affordability.Pricey,
+    affordability: Affordability.Reasonable,
     complexity: Complexity.Simple,
     imageUrl:
         'https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg',
@@ -157,7 +157,7 @@ const DUMMY_MEALS = const [
       'c4',
     ],
     name: 'Wiener Schnitzel',
-    affordability: Affordability.Luxurious,
+    affordability: Affordability.Expensive,
     complexity: Complexity.Challenging,
     imageUrl:
         'https://cdn.pixabay.com/photo/2018/03/31/19/29/schnitzel-3279045_1280.jpg',
@@ -194,7 +194,7 @@ const DUMMY_MEALS = const [
       'c10',
     ],
     name: 'Salad with Smoked Salmon',
-    affordability: Affordability.Luxurious,
+    affordability: Affordability.Expensive,
     complexity: Complexity.Simple,
     imageUrl:
         'https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg',
