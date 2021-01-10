@@ -38,6 +38,11 @@ class MyApp extends StatelessWidget {
         CategoryMealsScreen.ROUTE: (ctx) => CategoryMealsScreen(),
         MealDetailScreen.ROUTE: (ctx) => MealDetailScreen(),
       },
+      onUnknownRoute: (settings) {
+        return MaterialPageRoute(
+          builder: (ctx) => CategoriesScreen(),
+        );
+      },
     );
   }
 }
