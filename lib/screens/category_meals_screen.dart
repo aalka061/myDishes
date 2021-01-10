@@ -20,6 +20,7 @@ class CategoryMealsScreen extends StatelessWidget {
     final categoryMeals = DUMMY_MEALS.where((element) {
       return element.categories.contains(categoryId);
     }).toList();
+
     return Scaffold(
       appBar: AppBar(
         title: Text(categoryTitle),
