@@ -7,7 +7,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#Learning Lessons:
+## Learned Lessons:
  - Basics of Navigation (Screen, Routes, Pages) which they are all widgets!
  - Flutter navigators: allows you to switch(push, pop, replace) between pages
  - Named Routes vs unnamed Routes
@@ -15,7 +15,7 @@ samples, guidance on mobile development, and a full API reference.
  - Tbas: can be added in the AppBar or at the bootom of the page, allows you to switch between different stacks (no popping) 
  - Drawers & Dialgos: side menues can be used to switch between stacks 
 
-#Screen Shots 
+## Screen Shots 
  
 ![Screenshot from 2021-01-23 15-06-44](https://user-images.githubusercontent.com/32111609/106398088-f76df480-63de-11eb-9d50-9479616ff939.png)
 
