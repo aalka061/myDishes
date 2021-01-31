@@ -1,7 +1,6 @@
 # MyDishes App
 Dishes/Meals app allows users to browse meals by category, mark them as favorites, and set filters in which a user can decide which meals. 
 
-A 
 ## Getting Started
 
 For help getting started with Flutter, view our
